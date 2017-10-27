@@ -1,0 +1,21 @@
+10
+1 2 6 10
+The fusty air fills your lungs. You feel as though the air may drown you.
+2 1 3 7
+A massive stone arrangement stands tall in the back corner of the room. A monument to your endeavor.
+3 2 4 8
+A small pond forms a centerpiece in the spacious room. Pale fish and crustaceans scurry out of the lantern light.
+4 3 5 9
+The gritty mud crunches beneath your boots, forming a sound much like that of chewing.
+5 4 6 10
+Bones and matted fur chunks line the edges of a stone cubby. Old malodorous blood covers the parallel wall.
+6 1 5 7
+Etchings of horrible beasts are present on all surfaces of the small room. The primeval artwork is cool to the touch.
+7 2 6 8
+Shambling movement echos through the chasms, but from where does it originate?
+8 3 7 9
+Gargantuan iron restrains hang shattered upon the far wall. The chains weren't enough.
+9 4 8 10
+A skeleton lies fully outfitted in immaculate iron armor. He will not be needing that.
+10 1 5 9
+Lantern light burns low, almost being stolen by a dank draft from the far tunnel.
